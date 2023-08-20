@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am **Muhammad Hanif Ardhiansyah**.
+
+Currently I am a **bachelor's student** studying **Information Technology** at University of Brawijaya.
+
+I am also currently enrolled in a **Google-led tech academy** called [Bangkit Academy](https://grow.google/intl/id_id/bangkit/), specializing in **Cloud Computing**.
+
+If you're interested to reach out, please contact me at my [Linkedin](https://www.linkedin.com/in/hanif-ardhiansyah/).
+
 <!--
 **nipsie2/nipsie2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
